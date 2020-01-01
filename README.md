@@ -9,4 +9,8 @@ study algorithm with JAVA
 
 ### Union Find
 
-[BOJ 4195 친구 네트워크](./src/boj/n41905)
+[BOJ 4195 친구 네트워크](./src/boj/n4195)
+
+### DP
+
+[BOJ 4195 합분해](./src/boj/n2225)
