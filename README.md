@@ -18,3 +18,7 @@ study algorithm with JAVA
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
+
+### 분할 정복
+
+[BOJ 1780 종이의 갯수](./src/boj/n1780)
