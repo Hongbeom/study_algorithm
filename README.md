@@ -14,3 +14,7 @@ study algorithm with JAVA
 ### DP
 
 [BOJ 4195 합분해](./src/boj/n2225)
+
+### 문자열 처리
+
+[BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
