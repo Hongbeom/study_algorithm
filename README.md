@@ -19,12 +19,14 @@ study algorithm with JAVA
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
 
+[BOJ 4949 균형잡힌 세상](./src/boj/n4949)
+
 ### 분할 정복
 
 [BOJ 1780 종이의 갯수](./src/boj/n1780)
 
-[BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort에서의 inversion counting.
+[BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort에서의 inversion countig.
 
 ### Brute Force
 
-[BOJ 14888 연산자 끼워넣](./src/boj/n148888)
+[BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
