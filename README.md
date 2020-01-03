@@ -24,3 +24,7 @@ study algorithm with JAVA
 [BOJ 1780 종이의 갯수](./src/boj/n1780)
 
 [BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort에서의 inversion counting.
+
+### Brute Force
+
+[BOJ 14888 연산자 끼워넣](./src/boj/n148888)
