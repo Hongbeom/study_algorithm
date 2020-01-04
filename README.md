@@ -21,6 +21,8 @@ study algorithm with JAVA
 
 [BOJ 4949 균형잡힌 세상](./src/boj/n4949)
 
+[BOJ 5052 전화번호 목록](./src/boj/n5052) - Trie 이용
+
 ### 분할 정복
 
 [BOJ 1780 종이의 갯수](./src/boj/n1780)
