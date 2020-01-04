@@ -34,3 +34,7 @@ study algorithm with JAVA
 ### Brute Force
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
+
+### 위상정렬
+
+[BOJ 1766 문제집](./src/boj/n1766)
