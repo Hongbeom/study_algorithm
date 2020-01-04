@@ -11,6 +11,8 @@ study algorithm with JAVA
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
 
+[BOJ 2843 마블](./src/boj/n2843) - 오프라인 쿼리
+
 ### DP
 
 [BOJ 4195 합분해](./src/boj/n2225)
