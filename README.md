@@ -42,3 +42,7 @@ study algorithm with JAVA
 ### 시뮬레이션 
 
 [BOJ 2840 행운의 바퀴](./src/boj/n2840)
+
+### Greedy
+
+[BOJ 1449 수리공 항승](./src/boj/n1449)
