@@ -38,3 +38,7 @@ study algorithm with JAVA
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
+
+### 시뮬레이션 
+
+[BOJ 2840 행운의 바퀴](./src/boj/n2840)

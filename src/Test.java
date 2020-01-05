@@ -7,28 +7,27 @@ public class Test {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int c = 1;
-        while(true){
-            StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-            int l = Integer.parseInt(st.nextToken());
-            int p = Integer.parseInt(st.nextToken());
-            int v = Integer.parseInt(st.nextToken());
+        int n1 = 0;
+        int n2 = 0;
 
-            if(l==0 && p == 0 && v == 0){
-                return;
-            }
-
-            int d = v/p;
-            int r = v%p;
-
-            if(r > l){
-                System.out.println("Case "+ c +": " + (d*l + l));
-            }else{
-                System.out.println("Case "+ c +": " + (d*l + r));
-            }
-            c++;
+        int id = 0;
+        for (char c : st.nextToken().toCharArray()) {
+            n1 += Math.pow(10, id++) * (c - '0');
         }
+
+        id = 0;
+        for (char c : st.nextToken().toCharArray()) {
+            n2 += Math.pow(10, id++) * (c - '0');
+        }
+
+        if (n1 > n2) {
+            System.out.println(n1);
+        } else {
+            System.out.println(n2);
+        }
+
 
     }
 }
