@@ -29,6 +29,8 @@ study algorithm with JAVA
 
 [BOJ 1780 종이의 갯수](./src/boj/n1780)
 
+[BOJ 2805 나무 자르기](./src/boj/n2805) - 이분탐색
+
 [BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort에서의 inversion countig.
 
 ### Brute Force
