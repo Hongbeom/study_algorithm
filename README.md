@@ -32,7 +32,7 @@ study algorithm with JAVA
 
 [BOJ 2805 나무 자르기](./src/boj/n2805) - 이분탐색
 
-[BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort에서의 inversion countig.
+[BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort 에서의 inversion counting.
 
 ### Brute Force
 
@@ -54,3 +54,6 @@ study algorithm with JAVA
 
 [BOJ 5625 페스트리](./src/boj/n5625)
 
+### 수학
+
+[BOJ 6986 절사평균](./src/boj/n6986)
