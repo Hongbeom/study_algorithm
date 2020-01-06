@@ -10,6 +10,8 @@ study algorithm with JAVA
 
 [BOJ 2178 미로탐색](./src/boj/n2178)
 
+[BOJ 12100 2048 (Easy)](./src/boj/n12100)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
