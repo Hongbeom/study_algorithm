@@ -8,6 +8,8 @@ study algorithm with JAVA
 
 [BOJ 3055 탈출](./src/boj/n3055)
 
+[BOJ 2178 미로탐색](./src/boj/n2178)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
