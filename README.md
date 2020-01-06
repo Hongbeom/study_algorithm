@@ -2,10 +2,11 @@
 study algorithm with JAVA
 
 
-### BFS / DFS
+### BFS / DFS + 시뮬레이션
 
 [BOJ 1039 교환](./src/boj/n1039)
 
+[BOJ 3055 탈출](./src/boj/n3055)
 
 ### Union Find
 
