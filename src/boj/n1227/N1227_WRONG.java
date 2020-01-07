@@ -21,16 +21,17 @@ public class N1227_WRONG {
         int s = Integer.parseInt(st.nextToken());
 
 
-        boolean[][][] visited = new boolean[2][2 * s + 1][2 * s + 1];
+        boolean[][] visited = new boolean[2 * s + 1][2 * s + 1];
 
-        visited[0][s][s] = true;
-        visited[1][s][s] = true;
+        visited[s][s] = true;
+
         for (int i = 0; i < b; i++) {
+
             st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken()) + s;
             int y = Integer.parseInt(st.nextToken()) + s;
-            visited[0][x][y] = true;
-            visited[1][x][y] = true;
+            visited[x][y] = true;
+
         }
 
         int[] init = new int[]{s, s, 0};
@@ -64,10 +65,10 @@ public class N1227_WRONG {
                 int nx = x + H[i];
                 int ny = y + W[i];
 
-                if (visited[check][nx][ny]) {
+                if (visited[nx][ny]) {
                     continue;
                 }
-                visited[check][nx][ny] = true;
+                visited[nx][ny] = true;
                 queue.add(new int[]{nx, ny, step + 1});
             }
         }

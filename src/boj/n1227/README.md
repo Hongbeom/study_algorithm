@@ -1,4 +1,4 @@
-## 백준 3055 - [탈출](https://www.acmicpc.net/problem/3055)
+## 백준 1227 - [그녀의 마음](https://www.acmicpc.net/problem/1227)
 
 BFS 응용으로 배열의 크기가 너무 클때 어떻게 대처해야 하는가...? -> Solution을 보고 해결했다.
 
@@ -7,7 +7,7 @@ BFS 응용으로 배열의 크기가 너무 클때 어떻게 대처해야 하는
 1. 결국 문제가 원하는건, 시작점(0, 0) 에서 시작하여 s만큼 이동했을때 장해물을 피해서 이동 가능한 칸의 갯수
 - 홀수번 이동시 정인이의 칸, 짝수번 이동 시 상근이의 칸. 
 
-2. visited 배열읠 2 * s + 1의 크기만큼 사용해서 BFS 진행
+2. (2 * s + 1) * (2 * s + 1) 크기의 visited 배열 사용해서 BFS 진행
 
 ```JAVA
 while (!queue.isEmpty()) {
@@ -35,10 +35,10 @@ while (!queue.isEmpty()) {
         int nx = x + H[i];
         int ny = y + W[i];
 
-        if (visited[check][nx][ny]) {
+        if (visited[nx][ny]) {
             continue;
         }
-        visited[check][nx][ny] = true;
+        visited[nx][ny] = true;
         queue.add(new int[]{nx, ny, step + 1});
     }
 }
