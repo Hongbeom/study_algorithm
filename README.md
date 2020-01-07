@@ -12,6 +12,8 @@ study algorithm with JAVA
 
 [BOJ 12100 2048 (Easy)](./src/boj/n12100)
 
+[BOJ 1227 그녀의 마음](./src/boj/n1227) - BFS 이용시 방문 배열의 크기가 클때
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
