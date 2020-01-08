@@ -42,6 +42,8 @@ study algorithm with JAVA
 
 [BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort 에서의 inversion counting.
 
+[BOJ 2104 부분배열 고르기](./src/boj/n2104) - 라인 스윕으로도 풀이 가능.
+
 ### Brute Force
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
