@@ -26,6 +26,8 @@ study algorithm with JAVA
 
 [BOJ 8394 악수](./src/boj/n8394)
 
+[BOJ 1912 연속합](./src/boj/n1912) - 분할정복 - O(NlongN), DP - O(N)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
