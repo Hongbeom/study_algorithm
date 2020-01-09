@@ -75,3 +75,7 @@ study algorithm with JAVA
 ### 수학
 
 [BOJ 6986 절사평균](./src/boj/n6986)
+
+### 최소 스패닝 트리
+
+[BOJ 4386 별자리 만들기](./src/boj/n4386)
