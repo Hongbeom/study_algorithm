@@ -52,6 +52,8 @@ study algorithm with JAVA
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
 
+[BOJ 1062 가르침](./src/boj/n1062)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
