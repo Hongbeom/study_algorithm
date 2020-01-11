@@ -58,6 +58,8 @@ study algorithm with JAVA
 
 [BOJ 1062 가르침](./src/boj/n1062)
 
+[BOJ 1182 부분배열 고르기](./src/boj/n1182)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
