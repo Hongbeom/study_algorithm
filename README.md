@@ -32,6 +32,8 @@ study algorithm with JAVA
 
 [BOJ 1010 다리 놓기](./src/boj/n1010)
 
+[BOJ 11053 가장 긴 증가하는 부분 수](./src/boj/n11053) - LIS 문제 O(N^2), O(NlongN) 
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
