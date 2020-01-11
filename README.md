@@ -60,6 +60,8 @@ study algorithm with JAVA
 
 [BOJ 1182 부분배열 고르기](./src/boj/n1182)
 
+[BOJ 1182 부분배열 고르기 2](./src/boj/n1208) - meet in the middle
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
