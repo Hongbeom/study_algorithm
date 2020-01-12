@@ -91,3 +91,5 @@ study algorithm with JAVA
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
+
+[BOJ 1197 최소 스패닝 트리](./src/boj/n1197)
