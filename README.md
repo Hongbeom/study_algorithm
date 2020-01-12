@@ -20,6 +20,8 @@ study algorithm with JAVA
 
 [BOJ 1260 DFS와 BFS](./src/boj/n1260)
 
+[BOJ 7576 토마토](./src/boj/n7576)
+
 
 ### 구현
 
