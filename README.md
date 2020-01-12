@@ -18,6 +18,11 @@ study algorithm with JAVA
 
 [BOJ 1012 유기농 배추](./src/boj/n1012)
 
+
+### 구현
+
+[BOJ 2140 지뢰찾기](./src/boj/n2140)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
