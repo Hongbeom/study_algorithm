@@ -57,11 +57,15 @@ study algorithm with JAVA
 
 [BOJ 1780 종이의 갯수](./src/boj/n1780)
 
-[BOJ 2805 나무 자르기](./src/boj/n2805) - 이분탐색
-
 [BOJ 14458 소가 건너간 이유 10](./src/boj/n14458) - merge sort 에서의 inversion counting.
 
 [BOJ 2104 부분배열 고르기](./src/boj/n2104) - 라인 스윕으로도 풀이 가능.
+
+### 이분 탐색
+
+[BOJ 2805 나무 자르기](./src/boj/n2805)
+
+[BOJ 1654 랜선 자르기](./src/boj/n1654)
 
 ### Brute Force
 
@@ -77,7 +81,7 @@ study algorithm with JAVA
 
 [BOJ 1766 문제집](./src/boj/n1766)
 
-[BOJ 1516 게임 개발](./src/boj/n1516)
+[BOJ 1516게임 개발](./src/boj/n1516)
 
 ### 시뮬레이션 
 
