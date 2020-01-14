@@ -22,6 +22,7 @@ study algorithm with JAVA
 
 [BOJ 7576 토마토](./src/boj/n7576)
 
+[BOJ 1697 숨바꼭질](./src/boj/n1697)
 
 ### 구현
 
