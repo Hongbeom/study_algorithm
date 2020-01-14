@@ -34,6 +34,8 @@ study algorithm with JAVA
 
 [BOJ 2843 마블](./src/boj/n2843) - 오프라인 쿼리
 
+[BOJ 1717 집합의 표현](./src/boj/n1717) - 오프라인 쿼리
+
 ### DP
 
 [BOJ 4195 합분해](./src/boj/n2225)
