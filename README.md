@@ -115,3 +115,8 @@ study algorithm with JAVA
 [BOJ 1197 최소 스패닝 트리](./src/boj/n1197)
 
 [BOJ 1774 우주신과의 교감](./src/boj/n1774)
+
+### 세그먼트 트리
+
+[BOJ 2042 구간 합 구하기](./src/boj/n2042)
+
