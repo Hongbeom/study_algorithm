@@ -120,3 +120,5 @@ study algorithm with JAVA
 
 [BOJ 2042 구간 합 구하기](./src/boj/n2042)
 
+[BOJ 10999 구간 합 구하기 2](./src/boj/n10999) - lazy propagation
+
