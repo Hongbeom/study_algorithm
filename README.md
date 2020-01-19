@@ -50,6 +50,8 @@ study algorithm with JAVA
 
 [BOJ 9465 스티커](./src/boj/n9465)
 
+[BOJ 3745 오름세](./src/boj/n3745) - LIS 문제 - O(NlogN)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
