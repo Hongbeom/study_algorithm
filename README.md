@@ -127,3 +127,5 @@ study algorithm with JAVA
 [BOJ 10999 구간 합 구하기 2](./src/boj/n10999) - lazy propagation
 
 [BOJ 2912 백설공주와 난쟁이](./src/boj/n2912)
+
+[BOJ 3653 영화수집](./src/boj/n3653) - 팬윅트리로도 풀이 가능
