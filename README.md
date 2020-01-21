@@ -138,4 +138,7 @@ study algorithm with JAVA
 
 [BOJ 1389 케빈 베이컨의 6단계 법칙](./src/boj/n1389) - Floyd Warshall
 
+[BOJ 1613 역사](./src/boj/n1613) - Floyd Warshall 전후관계 파악
+
 [BOJ 11657 타임머신](./src/boj/n11657) - Bellman Ford
+
