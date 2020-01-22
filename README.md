@@ -102,6 +102,8 @@ study algorithm with JAVA
 
 [BOJ 13458 시험 감독](./src/boj/n13458)
 
+[BOJ 2886 자리 전쟁](./src/boj/n2886)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
