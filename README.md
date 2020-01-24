@@ -62,6 +62,8 @@ study algorithm with JAVA
 
 [BOJ 5052 전화번호 목록](./src/boj/n5052) - Trie 이용
 
+[BOJ 1501 영어 읽기](./src/boj/n1501)
+
 ### 분할 정복
 
 [BOJ 1780 종이의 갯수](./src/boj/n1780)
