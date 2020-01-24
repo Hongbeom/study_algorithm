@@ -106,6 +106,8 @@ study algorithm with JAVA
 
 [BOJ 2886 자리 전쟁](./src/boj/n2886)
 
+[BOJ 1783 병든 나이트](./src/boj/n1783)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
