@@ -78,6 +78,8 @@ study algorithm with JAVA
 
 [BOJ 1654 랜선 자르기](./src/boj/n1654)
 
+[BOJ 10815 숫자 카드](./src/boj/n10815)
+
 ### Brute Force
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
@@ -92,7 +94,7 @@ study algorithm with JAVA
 
 [BOJ 1766 문제집](./src/boj/n1766)
 
-[BOJ 1516게임 개발](./src/boj/n1516)
+[BOJ 1516 게임 개발](./src/boj/n1516)
 
 ### 시뮬레이션 
 
