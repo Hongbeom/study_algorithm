@@ -30,6 +30,8 @@ study algorithm with JAVA
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
 
+[BOJ 17074 정렬](./src/boj/n17074)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
