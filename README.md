@@ -112,6 +112,8 @@ study algorithm with JAVA
 
 [BOJ 1783 병든 나이트](./src/boj/n1783)
 
+[BOJ 16237 이삿짐 센터](./src/boj/n16237)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
