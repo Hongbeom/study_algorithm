@@ -122,6 +122,8 @@ study algorithm with JAVA
 
 [BOJ 10424 알고리즘 기말고사](./src/boj/n10424)
 
+[BOJ 13199 치킨 먹고 싶다](./src/boj/n13199)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
