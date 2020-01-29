@@ -26,6 +26,8 @@ study algorithm with JAVA
 
 [BOJ 4991 로봇 청소기](./src/boj/n4991)
 
+[BOJ 10448 유레카 이론](./src/boj/n10448)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
