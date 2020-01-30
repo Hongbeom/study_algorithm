@@ -94,6 +94,8 @@ study algorithm with JAVA
 
 [BOJ 1182 부분배열 고르기 2](./src/boj/n1208) - meet in the middle
 
+[BOJ 9247 종이 지도](./src/boj/n9247) - 탐색을 빠르게 하기 위해 전처리 수행.
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
