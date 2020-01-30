@@ -164,3 +164,7 @@ study algorithm with JAVA
 
 [BOJ 1865 웜홀](./src/boj/n1865) - Bellman Ford
 
+### LCA
+
+[BOJ 3584 가장 가까운 공통 조상](./src/boj/n3584) - LCA로 풀지 않음. 공부할 예정
+
