@@ -68,6 +68,8 @@ study algorithm with JAVA
 
 [BOJ 1501 영어 읽기](./src/boj/n1501)
 
+[BOJ 8595 히든 넘버](./src/boj/n8595)
+
 ### 분할 정복
 
 [BOJ 1780 종이의 갯수](./src/boj/n1780)
@@ -166,5 +168,5 @@ study algorithm with JAVA
 
 ### LCA
 
-[BOJ 3584 가장 가까운 공통 조상](./src/boj/n3584) - LCA로 풀지 않음. 공부할 예정
+[BOJ 3584 가장 가까운 공통 조상](./src/oj/n3584) - LCA로 풀지 않음. 공부할 예정
 
