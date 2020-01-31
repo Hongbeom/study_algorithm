@@ -58,6 +58,8 @@ study algorithm with JAVA
 
 [BOJ 3745 오름세](./src/boj/n3745) - LIS 문제 - O(NlogN)
 
+[BOJ 2313 보석 구매하기](./src/boj/n2313) - 연속합 dp
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
