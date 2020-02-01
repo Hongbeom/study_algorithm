@@ -162,6 +162,8 @@ study algorithm with JAVA
 
 [BOJ 3653 영화수집](./src/boj/n3653) - 팬윅트리로도 풀이 가능
 
+[BOJ 9345 디지털 비디오 디스크(DVDs)](./src/boj/n9345) - min, max 세그먼트 트리
+
 ### 최단거리
 
 [BOJ 10282 해킹](./src/boj/n10282) - Dijkstra
