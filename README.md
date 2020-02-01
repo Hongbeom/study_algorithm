@@ -62,6 +62,8 @@ study algorithm with JAVA
 
 [BOJ 2313 보석 구매하기](./src/boj/n2313) - 연속합 dp
 
+[BOJ 2240 자두나무](./src/boj/n2240) - 3차원 배열 이용
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
