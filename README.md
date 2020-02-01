@@ -36,6 +36,8 @@ study algorithm with JAVA
 
 [BOJ 17074 정렬](./src/boj/n17074)
 
+[BOJ 2033 반올림](./src/boj/n2033)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
