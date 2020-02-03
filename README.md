@@ -104,7 +104,7 @@ study algorithm with JAVA
 
 [BOJ 1182 부분배열 고르기 2](./src/boj/n1208) - meet in the middle
 
-[BOJ 9247 종이 지도](./src/boj/n9247) - 탐색을 빠르게 하기 위해 전처리 수행.
+[BOJ 9274 종이 지도](./src/boj/n9274) - 탐색을 빠르게 하기 위해 전처리 수행.
 
 [BOJ 12869 뮤탈리스크](./src/boj/n12869)
 
@@ -182,13 +182,13 @@ study algorithm with JAVA
 
 ### LCA
 
-[BOJ 3584 가장 가까운 공통 조상](./src/oj/n3584) - LCA로 풀지 않음. 공부할 예정
+[BOJ 3584 가장 가까운 공통 조상](./src/boj/n3584) - LCA로 풀지 않음. 공부할 예정
 
 ### 구간 배치 처리 mo's algorithm
 
-[BOJ 12999 화려한 마을3](./src/oj/n12999)
+[BOJ 12999 화려한 마을3](./src/boj/n12999)
 
-[BOJ 13457 수열과 쿼리 5](./src/oj/n13457) - 온라인 쿼리로도 풀이 가능. 공부할 예정
+[BOJ 13457 수열과 쿼리 5](./src/boj/n13547) - 온라인 쿼리로도 풀이 가능. 공부할 예정
 
 
 
