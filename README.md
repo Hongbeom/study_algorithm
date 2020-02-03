@@ -186,6 +186,8 @@ study algorithm with JAVA
 
 ### 구간 배치 처리 mo's algorithm
 
+[BOJ 12999 화려한 마을3](./src/oj/n12999)
+
 [BOJ 13457 수열과 쿼리 5](./src/oj/n13457) - 온라인 쿼리로도 풀이 가능. 공부할 예정
 
 
