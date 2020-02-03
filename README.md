@@ -178,6 +178,8 @@ study algorithm with JAVA
 
 [BOJ 1865 웜홀](./src/boj/n1865) - Bellman Ford
 
+[BOJ 9370 미확인 도착지](./src/boj/n9370) - Dijkstra 
+
 ### LCA
 
 [BOJ 3584 가장 가까운 공통 조상](./src/oj/n3584) - LCA로 풀지 않음. 공부할 예정
