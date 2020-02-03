@@ -190,6 +190,6 @@ study algorithm with JAVA
 
 [BOJ 13457 수열과 쿼리 5](./src/boj/n13547) - 온라인 쿼리로도 풀이 가능. 공부할 예정
 
-
+[BOJ 13458 수열과 쿼리 6](./src/boj/n13548)
 
 
