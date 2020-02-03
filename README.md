@@ -184,3 +184,10 @@ study algorithm with JAVA
 
 [BOJ 3584 가장 가까운 공통 조상](./src/oj/n3584) - LCA로 풀지 않음. 공부할 예정
 
+### 구간 배치 처리 mo's algorithm
+
+[BOJ 13457 수열과 쿼리 5](./src/oj/n13457) - 온라인 쿼리로도 풀이 가능. 공부할 예정
+
+
+
+
