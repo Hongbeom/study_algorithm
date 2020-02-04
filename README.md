@@ -186,7 +186,7 @@ study algorithm with JAVA
 
 ### LCA
 
-[BOJ 3584 가장 가까운 공통 조상](./src/boj/n3584) - LCA로 풀지 않음. 공부할 예정
+[BOJ 3584 가장 가까운 공통 조상](./src/boj/n3584) - LCA와 union find 풀이
 
 ### 구간 배치 처리 mo's algorithm
 
