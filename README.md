@@ -30,6 +30,8 @@ study algorithm with JAVA
 
 [BOJ 13903 출근](./src/boj/n13903)
 
+[BOJ 13459 구슬 탈출](./src/boj/n13459)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
