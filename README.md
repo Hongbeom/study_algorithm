@@ -120,6 +120,8 @@ study algorithm with JAVA
 
 [BOJ 1516 게임 개발](./src/boj/n1516)
 
+[BOJ 1005 ACM Craft](./src/boj/n1005)
+
 ### 시뮬레이션 
 
 [BOJ 2840 행운의 바퀴](./src/boj/n2840)
