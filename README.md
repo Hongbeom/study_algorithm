@@ -90,6 +90,8 @@ study algorithm with JAVA
 
 [BOJ 2104 부분배열 고르기](./src/boj/n2104) - 라인 스윕으로도 풀이 가능.
 
+[BOJ 1517 버블 소트](./src/boj/n1517) - merge sort 에서의 inversion counting.
+
 ### 이분 탐색
 
 [BOJ 2805 나무 자르기](./src/boj/n2805)
