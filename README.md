@@ -168,6 +168,8 @@ study algorithm with JAVA
 
 [BOJ 9345 디지털 비디오 디스크(DVDs)](./src/boj/n9345) - min, max 세그먼트 트리
 
+[BOJ 12899 데이터 구조](./src/boj/n9345) - k번째 원소를 찾는 세그먼트 트리
+
 ### 최단거리
 
 [BOJ 10282 해킹](./src/boj/n10282) - Dijkstra
