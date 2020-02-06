@@ -34,6 +34,8 @@ study algorithm with JAVA
 
 [BOJ 13460 구슬 탈출 2](./src/boj/n13460)
 
+[BOJ 15686 치킨 배달](./src/boj/n15686)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
