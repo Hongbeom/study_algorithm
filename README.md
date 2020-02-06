@@ -172,7 +172,7 @@ study algorithm with JAVA
 
 [BOJ 9345 디지털 비디오 디스크(DVDs)](./src/boj/n9345) - min, max 세그먼트 트리
 
-[BOJ 12899 데이터 구조](./src/boj/n9345) - k번째 원소를 찾는 세그먼트 트리
+[BOJ 12899 데이터 구조](./src/boj/n12899) - k번째 원소를 찾는 세그먼트 트리
 
 ### 최단거리
 
@@ -189,6 +189,8 @@ study algorithm with JAVA
 [BOJ 1865 웜홀](./src/boj/n1865) - Bellman Ford
 
 [BOJ 9370 미확인 도착지](./src/boj/n9370) - Dijkstra 
+
+[BOJ 18223 민준이와 마산 그리고 건우](./src/boj/n18223) - Dijkstra 
 
 ### LCA
 
