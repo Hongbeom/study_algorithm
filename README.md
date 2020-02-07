@@ -36,6 +36,8 @@ study algorithm with JAVA
 
 [BOJ 15686 치킨 배달](./src/boj/n15686)
 
+[BOJ 2667 단지번호붙이기](./src/boj/n2667)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
