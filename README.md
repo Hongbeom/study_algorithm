@@ -106,7 +106,7 @@ study algorithm with JAVA
 
 [BOJ 10815 숫자 카드](./src/boj/n10815)
 
-[BOJ 3691 컴퓨터 조립](./src/boj/n3691) - 전처리 후 이분탐색.
+[BOJ 3691 컴퓨터 조립](./src/boj/n3691) - 전처리 후 이분탐색. 
 
 ### Brute Force
 
@@ -167,6 +167,8 @@ study algorithm with JAVA
 [BOJ 1197 최소 스패닝 트리](./src/boj/n1197)
 
 [BOJ 1774 우주신과의 교감](./src/boj/n1774)
+
+[BOJ 6416 트리인가?](./src/boj/n6416)
 
 ### 세그먼트 트리
 
