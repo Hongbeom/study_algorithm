@@ -106,6 +106,8 @@ study algorithm with JAVA
 
 [BOJ 10815 숫자 카드](./src/boj/n10815)
 
+[BOJ 3691 컴퓨터 조립](./src/boj/n3691) - 전처리 후 이분탐색.
+
 ### Brute Force
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
