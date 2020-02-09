@@ -38,6 +38,8 @@ study algorithm with JAVA
 
 [BOJ 2667 단지번호붙이기](./src/boj/n2667)
 
+[BOJ 16236 아기상어](./src/boj/n16236)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
