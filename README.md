@@ -160,6 +160,8 @@ study algorithm with JAVA
 
 [BOJ 13199 치킨 먹고 싶다](./src/boj/n13199)
 
+[BOJ 8916 이진 검색 트리](./src/boj/n8916)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
