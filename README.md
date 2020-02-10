@@ -122,6 +122,8 @@ study algorithm with JAVA
 
 [BOJ 12869 뮤탈리스크](./src/boj/n12869)
 
+[BOJ 16637 괄호 추가하기](./src/boj/n16637)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
