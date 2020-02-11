@@ -78,6 +78,8 @@ study algorithm with JAVA
 
 [BOJ 2240 자두나무](./src/boj/n2240) - 3차원 배열 이용
 
+[BOJ 1535 안녕](./src/boj/n1535) - 0/1 knapsack 
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
