@@ -80,6 +80,8 @@ study algorithm with JAVA
 
 [BOJ 1535 안녕](./src/boj/n1535) - 0/1 knapsack 
 
+[BOJ 1633 최고의 팀 만들기](./src/boj/n1633) - 0/1 knapsack 3차원 
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
