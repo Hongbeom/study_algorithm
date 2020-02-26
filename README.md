@@ -44,6 +44,8 @@ study algorithm with JAVA
 
 [BOJ 8911 거북이](./src/boj/n8911)
 
+[BOJ 2653 안정된 집단](./src/boj/n2653)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
