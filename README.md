@@ -146,6 +146,8 @@ study algorithm with JAVA
 
 [BOJ 2840 행운의 바퀴](./src/boj/n2840)
 
+[BOJ 4921 나무 블록](./src/boj/n4921)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
