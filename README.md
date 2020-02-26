@@ -46,6 +46,8 @@ study algorithm with JAVA
 
 [BOJ 2653 안정된 집단](./src/boj/n2653)
 
+[BOJ 10469 사이 나쁜 여왕들](./src/boj/n10469)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
@@ -234,5 +236,4 @@ study algorithm with JAVA
 
 ### 네트워크 최대유량
 
-[BOJ 11375 열혈 강호](./src/boj/n11375) - 이분그래프 이분매
-
+[BOJ 11375 열혈 강호](./src/boj/n11375) - 이분그래프 이분매칭
