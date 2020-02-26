@@ -56,6 +56,8 @@ study algorithm with JAVA
 
 [BOJ 2033 반올림](./src/boj/n2033)
 
+[BOJ 2831 댄스 파티](./src/boj/n2831)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
