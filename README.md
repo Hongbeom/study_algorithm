@@ -42,6 +42,8 @@ study algorithm with JAVA
 
 [BOJ 16234 인구 이동](./src/boj/n16234)
 
+[BOJ 8911 거북이](./src/boj/n8911)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
