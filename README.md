@@ -168,6 +168,8 @@ study algorithm with JAVA
 
 [BOJ 16237 이삿짐 센터](./src/boj/n16237)
 
+[BOJ 3663 고득점](./src/boj/n3663)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
