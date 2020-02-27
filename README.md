@@ -138,6 +138,8 @@ study algorithm with JAVA
 
 [BOJ 16637 괄호 추가하기](./src/boj/n16637)
 
+[BOJ 9763 마을의 친밀도](./src/boj/n9763)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
