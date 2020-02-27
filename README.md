@@ -170,6 +170,8 @@ study algorithm with JAVA
 
 [BOJ 3663 고득점](./src/boj/n3663)
 
+[BOJ 7507 올림픽 게임](./src/boj/n7507)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
