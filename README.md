@@ -156,6 +156,8 @@ study algorithm with JAVA
 
 [BOJ 4921 나무 블록](./src/boj/n4921)
 
+[BOJ 14488 준오는 급식충이야!!](./src/boj/n14488)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
