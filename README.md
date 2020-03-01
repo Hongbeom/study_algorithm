@@ -180,6 +180,8 @@ study algorithm with JAVA
 
 [BOJ 7507 올림픽 게임](./src/boj/n7507)
 
+[BOJ 2594 놀이공원](./src/boj/n2594)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
