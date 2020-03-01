@@ -142,6 +142,8 @@ study algorithm with JAVA
 
 [BOJ 9763 마을의 친밀도](./src/boj/n9763)
 
+[BOJ 1440 타임머신](./src/boj/n1440)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
