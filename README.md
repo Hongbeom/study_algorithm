@@ -204,6 +204,8 @@ study algorithm with JAVA
 
 [BOJ 8916 이진 검색 트리](./src/boj/n8916)
 
+[BOJ 6502 동혁 피자](./src/boj/n6502)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
