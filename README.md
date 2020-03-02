@@ -164,6 +164,8 @@ study algorithm with JAVA
 
 [BOJ 12968 방문](./src/boj/n12968)
 
+[BOJ 3028 창영마을](./src/boj/n3028)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
