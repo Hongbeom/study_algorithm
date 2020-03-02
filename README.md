@@ -58,6 +58,8 @@ study algorithm with JAVA
 
 [BOJ 2831 댄스 파티](./src/boj/n2831)
 
+[BOJ 3029 경고](./src/boj/n3029)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
