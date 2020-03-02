@@ -144,6 +144,8 @@ study algorithm with JAVA
 
 [BOJ 1440 타임머신](./src/boj/n1440)
 
+[BOJ 3943 헤일스톤 수열](./src/boj/n3943)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
