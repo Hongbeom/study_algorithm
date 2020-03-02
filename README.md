@@ -60,6 +60,8 @@ study algorithm with JAVA
 
 [BOJ 3029 경고](./src/boj/n3029)
 
+[BOJ 3029 테니스](./src/boj/n3030)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
