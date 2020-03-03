@@ -48,6 +48,8 @@ study algorithm with JAVA
 
 [BOJ 10469 사이 나쁜 여왕들](./src/boj/n10469)
 
+[BOJ 16469 소년 점프](./src/boj/n16469)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
