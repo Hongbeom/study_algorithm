@@ -96,6 +96,8 @@ study algorithm with JAVA
 
 [BOJ 3133 코끼리](./src/boj/n3133) - 이분탐색 이용 dp
 
+[BOJ 2157 여행](./src/boj/n2157)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
