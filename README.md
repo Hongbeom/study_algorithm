@@ -62,6 +62,8 @@ study algorithm with JAVA
 
 [BOJ 3029 테니스](./src/boj/n3030)
 
+[BOJ 2841 외계인의 기타 연주](./src/boj/n2841)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
