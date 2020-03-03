@@ -192,6 +192,8 @@ study algorithm with JAVA
 
 [BOJ 2594 놀이공원](./src/boj/n2594)
 
+[BOJ 2871 아름다운 단어](./src/boj/n2871)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
