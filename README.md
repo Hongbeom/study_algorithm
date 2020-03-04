@@ -66,6 +66,8 @@ study algorithm with JAVA
 
 [BOJ 2841 외계인의 기타 연주](./src/boj/n2841)
 
+[BOJ 17842 버스 노선](./src/boj/n17842)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
