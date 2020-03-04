@@ -68,6 +68,8 @@ study algorithm with JAVA
 
 [BOJ 17842 버스 노선](./src/boj/n17842)
 
+[BOJ 7662 이중 우선순위 큐](./src/boj/n7662) - BST로 구현.
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
