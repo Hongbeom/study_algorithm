@@ -50,6 +50,8 @@ study algorithm with JAVA
 
 [BOJ 16469 소년 점프](./src/boj/n16469)
 
+[BOJ 5831 이상적인 도시](./src/boj/n5813)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
