@@ -74,6 +74,8 @@ study algorithm with JAVA
 
 [BOJ 10981 HEADING TO WORLD FINALS](./src/boj/n10981)
 
+[BOJ 14670 병약학 영정](./src/boj/n14670)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
