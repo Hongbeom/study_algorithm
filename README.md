@@ -234,6 +234,8 @@ study algorithm with JAVA
 
 [BOJ 6416 트리인가?](./src/boj/n6416)
 
+[KICK START 2019 ROUND E Cherries Mesh](./src/kickstart/round_e_2019/cherriesmesh)
+
 ### 세그먼트 트리
 
 [BOJ 2042 구간 합 구하기](./src/boj/n2042)
