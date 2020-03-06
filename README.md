@@ -72,6 +72,8 @@ study algorithm with JAVA
 
 [BOJ 7662 이중 우선순위 큐](./src/boj/n7662) - BST로 구현.
 
+[BOJ 10981 HEADING TO WORLD FINALS](./src/boj/n10981)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
