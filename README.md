@@ -144,6 +144,8 @@ study algorithm with JAVA
 
 [BOJ 3691 컴퓨터 조립](./src/boj/n3691) - 전처리 후 이분탐색. 
 
+[KICK START 2019 ROUND E Code-Eat Switcher](./src/kickstart/round_e_2019/code_eatswitcher)
+
 ### Brute Force
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
