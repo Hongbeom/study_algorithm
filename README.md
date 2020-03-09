@@ -168,6 +168,8 @@ study algorithm with JAVA
 
 [BOJ 3943 헤일스톤 수열](./src/boj/n3943)
 
+[BOJ 3050 집들이](./src/boj/n3050)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
