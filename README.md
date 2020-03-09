@@ -242,6 +242,8 @@ study algorithm with JAVA
 
 [KICK START 2019 ROUND E Cherries Mesh](./src/kickstart/round_e_2019/cherriesmesh)
 
+[BOJ 6091 핑크 플로이드](./src/boj/n6091)
+
 ### 세그먼트 트리
 
 [BOJ 2042 구간 합 구하기](./src/boj/n2042)
