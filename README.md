@@ -226,6 +226,8 @@ study algorithm with JAVA
 
 [BOJ 6502 동혁 피자](./src/boj/n6502)
 
+[BOJ 4563 리벤지 오브 피타고라스](./src/boj/n4563)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
