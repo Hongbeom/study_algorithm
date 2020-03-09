@@ -230,6 +230,8 @@ study algorithm with JAVA
 
 [BOJ 4563 리벤지 오브 피타고라스](./src/boj/n4563)
 
+[BOJ 10253 헨리](./src/boj/n10253)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
