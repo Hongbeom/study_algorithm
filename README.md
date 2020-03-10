@@ -52,6 +52,8 @@ study algorithm with JAVA
 
 [BOJ 5831 이상적인 도시](./src/boj/n5813)
 
+[BOJ 3187 양치기 꿍](./src/boj/n3187)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
