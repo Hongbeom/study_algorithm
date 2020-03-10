@@ -214,6 +214,8 @@ study algorithm with JAVA
 
 [BOJ 2871 아름다운 단어](./src/boj/n2871)
 
+[BOJ 13904 과제](./src/boj/n13904)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
