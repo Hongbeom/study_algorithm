@@ -80,6 +80,8 @@ study algorithm with JAVA
 
 [BOJ 10845 큐](./src/boj/n10845)
 
+[BOJ 14582 오늘도 졌다](./src/boj/n14582)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
