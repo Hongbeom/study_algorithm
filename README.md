@@ -78,6 +78,8 @@ study algorithm with JAVA
 
 [BOJ 14670 병약학 영정](./src/boj/n14670)
 
+[BOJ 10845 큐](./src/boj/n10845)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
