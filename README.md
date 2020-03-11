@@ -238,6 +238,8 @@ study algorithm with JAVA
 
 [BOJ 10253 헨리](./src/boj/n10253)
 
+[BOJ 1977 완전제곱수](./src/boj/n1977)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
