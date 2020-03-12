@@ -307,3 +307,5 @@ study algorithm with JAVA
 [BOJ 11375 열혈 강호](./src/boj/n11375) - 이분그래프 이분매칭
 
 [BOJ 6086 최대 유량](./src/boj/n6086) - 에드몬드 카프
+
+[BOJ 2188 축사 배정](./src/boj/n2188) - 이분 매칭
