@@ -280,7 +280,7 @@ study algorithm with JAVA
 
 [BOJ 1613 역사](./src/boj/n1613) - Floyd Warshall 전후관계 파악
 
-[BOJ 11657 타임머신](./src/boj/n11657) - Bellman Ford
+[BOJ 11657 타임머신](./src/boj/n11657) - Bellman Ford 와 SPFA
 
 [BOJ 1865 웜홀](./src/boj/n1865) - Bellman Ford
 
