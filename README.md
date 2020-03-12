@@ -305,3 +305,5 @@ study algorithm with JAVA
 ### 네트워크 최대유량
 
 [BOJ 11375 열혈 강호](./src/boj/n11375) - 이분그래프 이분매칭
+
+[BOJ 6086 최대 유량](./src/boj/n6086) - 에드몬드 카프
