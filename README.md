@@ -315,3 +315,5 @@ study algorithm with JAVA
 [BOJ 11408 열혈강호 5](./src/boj/n11408) - 이분 매칭 MCMF
 
 [BOJ 1575 졸업](./src/boj/n1575) - 이분 매칭 MCMF
+
+[BOJ 1760 N-Rook](./src/boj/n1760) - 이분 매칭 MCMF
