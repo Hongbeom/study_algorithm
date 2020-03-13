@@ -309,3 +309,5 @@ study algorithm with JAVA
 [BOJ 6086 최대 유량](./src/boj/n6086) - 에드몬드 카프
 
 [BOJ 2188 축사 배정](./src/boj/n2188) - 이분 매칭
+
+[BOJ 11405 책 구매하기](./src/boj/n11405) - 책 구매하기
