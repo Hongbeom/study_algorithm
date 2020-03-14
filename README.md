@@ -82,6 +82,8 @@ study algorithm with JAVA
 
 [BOJ 14582 오늘도 졌다](./src/boj/n14582)
 
+[BOJ 3076 상근이의 체스판](./src/boj/n3076)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
