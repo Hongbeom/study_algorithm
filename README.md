@@ -319,3 +319,5 @@ study algorithm with JAVA
 [BOJ 1575 졸업](./src/boj/n1575) - 이분 매칭 MCMF
 
 [BOJ 1760 N-Rook](./src/boj/n1760) - 이분 매칭 MCMF
+
+[BOJ 3295 단방향 링크 네트워크](./src/boj/n3295) - 이분 매칭
