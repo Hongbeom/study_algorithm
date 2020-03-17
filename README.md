@@ -84,6 +84,8 @@ study algorithm with JAVA
 
 [BOJ 3076 상근이의 체스판](./src/boj/n3076)
 
+[프로그래머스 뉴스 클러스터링](./src/programmers/newsclustering)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
