@@ -294,6 +294,8 @@ study algorithm with JAVA
 
 [BOJ 18223 민준이와 마산 그리고 건우](./src/boj/n18223) - Dijkstra 
 
+[BOJ 12834 주간 미팅](./src/boj/n12834) - Dijkstra 
+
 ### LCA
 
 [BOJ 3584 가장 가까운 공통 조상](./src/boj/n3584) - LCA와 union find 풀이
