@@ -158,6 +158,8 @@ study algorithm with JAVA
 
 [KICK START 2019 ROUND E Code-Eat Switcher](./src/kickstart/round_e_2019/code_eatswitcher)
 
+[BOJ 14575 뒤풀이](./src/boj/n14575)
+
 ### Brute Force
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
