@@ -124,6 +124,8 @@ study algorithm with JAVA
 
 [BOJ 2157 여행](./src/boj/n2157)
 
+[BOJ 5546 파스타](./src/boj/n5546)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
