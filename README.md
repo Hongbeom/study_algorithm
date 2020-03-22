@@ -188,6 +188,8 @@ study algorithm with JAVA
 
 [BOJ 3050 집들이](./src/boj/n3050)
 
+[BOJ 1813 마지막 한마디](./src/boj/n1813)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
