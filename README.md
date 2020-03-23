@@ -256,6 +256,8 @@ study algorithm with JAVA
 
 [BOJ 1977 완전제곱수](./src/boj/n1977)
 
+[BOJ 1673 치킨 쿠폰](./src/boj/n1673)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
