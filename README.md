@@ -92,6 +92,8 @@ study algorithm with JAVA
 
 [BOJ 6996 애너그램](./src/boj/n6996)
 
+[BOJ 17478 재귀함수가 뭔가요?](./src/boj/n17478)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
