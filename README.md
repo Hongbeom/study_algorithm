@@ -132,6 +132,8 @@ study algorithm with JAVA
 
 [BOJ 5546 파스타](./src/boj/n5546)
 
+[BOJ 9952 LCS 2](./src/boj/n9952) - LCS
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
