@@ -196,6 +196,8 @@ study algorithm with JAVA
 
 [BOJ 1813 마지막 한마디](./src/boj/n1813)
 
+[BOJ 7568 덩치](./src/boj/n7568)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
