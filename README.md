@@ -198,6 +198,8 @@ study algorithm with JAVA
 
 [BOJ 7568 덩치](./src/boj/n7568)
 
+[BOJ 1018 체스판 다시 칠하기](./src/boj/n1018)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
