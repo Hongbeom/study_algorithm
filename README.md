@@ -94,6 +94,8 @@ study algorithm with JAVA
 
 [BOJ 17478 재귀함수가 뭔가요?](./src/boj/n17478)
 
+[BOJ 14792 칠무해](./src/boj/n14792)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
