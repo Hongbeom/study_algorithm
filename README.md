@@ -246,6 +246,8 @@ study algorithm with JAVA
 
 [BOJ 13904 과제](./src/boj/n13904)
 
+[BOJ 2122 센서](./src/boj/n2212)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
