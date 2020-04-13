@@ -1,5 +1,4 @@
-## 백준  - [백설공주와 난쟁이](https://www.acmicpc.net/problem/2912)
-
+## 백준 2240 - [자두나무](https://www.acmicpc.net/problem/2240)
 
 메모이제이션 배열을 3차원으로 사용.
 

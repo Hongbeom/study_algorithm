@@ -248,6 +248,8 @@ study algorithm with JAVA
 
 [BOJ 2122 센서](./src/boj/n2212)
 
+[BOJ 2467 용액](./src/boj/n2467)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
