@@ -54,6 +54,8 @@ study algorithm with JAVA
 
 [BOJ 3187 양치기 꿍](./src/boj/n3187)
 
+[BOJ 14369 전화번호 수수께끼 (Small)](./src/boj/n14369)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
