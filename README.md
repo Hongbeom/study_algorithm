@@ -96,6 +96,8 @@ study algorithm with JAVA
 
 [BOJ 14792 칠무해](./src/boj/n14792)
 
+[BOJ 2757 엑셀](./src/boj/n2757)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
