@@ -206,6 +206,8 @@ study algorithm with JAVA
 
 [BOJ 1018 체스판 다시 칠하기](./src/boj/n1018)
 
+[BOJ 12867 N차원 여행](./src/boj/n12867)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
