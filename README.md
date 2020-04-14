@@ -254,6 +254,8 @@ study algorithm with JAVA
 
 [BOJ 2467 용액](./src/boj/n2467)
 
+[BOJ 14370 전화번호 수수께끼 (Large)](./src/boj/n14370)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
