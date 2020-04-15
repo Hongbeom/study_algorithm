@@ -56,6 +56,8 @@ study algorithm with JAVA
 
 [BOJ 14369 전화번호 수수께끼 (Small)](./src/boj/n14369)
 
+[BOJ 1342 행운의 문자열](./src/boj/n1342)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
