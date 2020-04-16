@@ -286,6 +286,8 @@ study algorithm with JAVA
 
 [BOJ 1673 치킨 쿠폰](./src/boj/n1673)
 
+[BOJ 2381 최대 거리](./src/boj/n2381)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
