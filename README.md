@@ -262,6 +262,8 @@ study algorithm with JAVA
 
 [BOJ 14370 전화번호 수수께끼 (Large)](./src/boj/n14370)
 
+[BOJ 1744 수묶기](./src/boj/n1744)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
