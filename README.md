@@ -104,6 +104,8 @@ study algorithm with JAVA
 
 [BOJ 3015 오아시스 재결합](./src/boj/n3015)
 
+[BOJ 13144 List of Unique Numbers](./src/boj/n13144)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
