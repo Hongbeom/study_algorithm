@@ -58,6 +58,8 @@ study algorithm with JAVA
 
 [BOJ 1342 행운의 문자열](./src/boj/n1342)
 
+[BOJ 2589 보물섬](./src/boj/n2589)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
