@@ -60,6 +60,8 @@ study algorithm with JAVA
 
 [BOJ 2589 보물섬](./src/boj/n2589)
 
+[BOJ 7569 토마토](./src/boj/n7569)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
