@@ -62,6 +62,8 @@ study algorithm with JAVA
 
 [BOJ 7569 토마토](./src/boj/n7569)
 
+[BOJ 16939 나3곱2](./src/boj/n16939)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
