@@ -114,6 +114,8 @@ study algorithm with JAVA
 
 [BOJ 17266 어두운 굴다리](./src/boj/n17266)
 
+[BOJ 2615 오목](./src/boj/n2615)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
