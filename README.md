@@ -66,6 +66,8 @@ study algorithm with JAVA
 
 [BOJ 2151 거울 설치](./src/boj/n2151)
 
+[BOJ 10330 비트 문자열 재배열하기](./src/boj/n10330)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
