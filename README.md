@@ -64,6 +64,8 @@ study algorithm with JAVA
 
 [BOJ 16939 나3곱2](./src/boj/n16939)
 
+[BOJ 2151 거울 설치](./src/boj/n2151)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
