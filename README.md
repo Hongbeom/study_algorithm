@@ -360,6 +360,8 @@ study algorithm with JAVA
 
 [BOJ 11438 LCA 2](./src/boj/n3584)
 
+[BOJ 2233 사과나무](./src/boj/n2233)
+
 ### 구간 배치 처리 mo's algorithm
 
 [BOJ 12999 화려한 마을3](./src/boj/n12999)
