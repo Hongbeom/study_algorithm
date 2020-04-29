@@ -120,6 +120,8 @@ study algorithm with JAVA
 
 [BOJ 2615 오목](./src/boj/n2615)
 
+[BOJ 14646 욱제는 결정장애야!!](./src/boj/n14646)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
