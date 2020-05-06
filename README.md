@@ -282,6 +282,8 @@ study algorithm with JAVA
 
 [BOJ 1744 수묶기](./src/boj/n1744)
 
+[BOJ 2232 지뢰](./src/boj/n2232)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
