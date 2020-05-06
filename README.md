@@ -122,6 +122,8 @@ study algorithm with JAVA
 
 [BOJ 14646 욱제는 결정장애야!!](./src/boj/n14646)
 
+[BOJ 18115 카드 놓기](./src/boj/n18115)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
