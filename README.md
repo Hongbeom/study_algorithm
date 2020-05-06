@@ -124,6 +124,8 @@ study algorithm with JAVA
 
 [BOJ 18115 카드 놓기](./src/boj/n18115)
 
+[BOJ 2504 괄호의 값](./src/boj/n2504)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
