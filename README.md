@@ -68,6 +68,8 @@ study algorithm with JAVA
 
 [BOJ 10330 비트 문자열 재배열하기](./src/boj/n10330)
 
+[BOJ 7682 틱택토](./src/boj/n7682)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
