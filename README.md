@@ -170,6 +170,8 @@ study algorithm with JAVA
 
 [BOJ 17485 진우의 달 여행 (Large)](./src/boj/n17485)
 
+[BOJ 15483 최소 편집](./src/boj/n15483)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
