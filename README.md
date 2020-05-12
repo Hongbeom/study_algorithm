@@ -244,6 +244,8 @@ study algorithm with JAVA
 
 [BOJ 1051 숫자 정사각형](./src/boj/n1051)
 
+[SW 1767 프로세서 연결하기](./src/sw/sw1767)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
