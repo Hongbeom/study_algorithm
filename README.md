@@ -240,6 +240,8 @@ study algorithm with JAVA
 
 [BOJ 12867 N차원 여행](./src/boj/n12867)
 
+[BOJ 5911 선물](./src/boj/n5911)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
