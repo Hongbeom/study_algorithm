@@ -242,6 +242,8 @@ study algorithm with JAVA
 
 [BOJ 5911 선물](./src/boj/n5911)
 
+[BOJ 1051 숫자 정사각형](./src/boj/n1051)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
