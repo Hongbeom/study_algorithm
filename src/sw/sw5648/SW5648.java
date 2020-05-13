@@ -66,7 +66,7 @@ public class SW5648 {
 
                     map[a][b] = 0;
 
-                    // 일단 이동
+
                     int[] nextPosition = current.move();
 
                     int na = nextPosition[0];

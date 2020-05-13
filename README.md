@@ -128,6 +128,8 @@ study algorithm with JAVA
 
 [BOJ 2504 괄호의 값](./src/boj/n2504)
 
+[SW 5644 무선 충전](./src/sw/sw5644)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
