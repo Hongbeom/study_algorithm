@@ -268,6 +268,8 @@ study algorithm with JAVA
 
 [BOJ 3028 창영마을](./src/boj/n3028)
 
+[SW 5648 원자 소멸 시뮬레이션](./src/sw/sw5648)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
