@@ -132,6 +132,8 @@ study algorithm with JAVA
 
 [SW 5644 무선 충전](./src/sw/sw5644)
 
+[SW 5658 보물상자 비밀번호](./src/sw/sw5658)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
