@@ -276,6 +276,8 @@ study algorithm with JAVA
 
 [SW 5648 원자 소멸 시뮬레이션](./src/sw/sw5648)
 
+[SW 5656 벽돌 깨기](./src/sw/sw5656)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
