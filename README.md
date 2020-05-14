@@ -70,6 +70,8 @@ study algorithm with JAVA
 
 [BOJ 7682 틱택토](./src/boj/n7682)
 
+[BOJ 2668 숫자 고르기](./src/boj/n2668)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
