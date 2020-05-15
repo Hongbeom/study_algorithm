@@ -280,6 +280,8 @@ study algorithm with JAVA
 
 [SW 5656 벽돌 깨기](./src/sw/sw5656)
 
+[SW 5653 줄기세포배양](./src/sw/sw5653)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
