@@ -72,6 +72,8 @@ study algorithm with JAVA
 
 [BOJ 2668 숫자 고르기](./src/boj/n2668)
 
+[BOJ 16948 데스 나이트](./src/boj/n16948)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
