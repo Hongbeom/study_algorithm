@@ -290,6 +290,8 @@ study algorithm with JAVA
 
 [BOJ 3910 뱀](./src/boj/n3190)
 
+[SW 4013 특이한 자석](./src/sw/sw4013)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
