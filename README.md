@@ -288,6 +288,8 @@ study algorithm with JAVA
 
 [SW 5653 줄기세포배양](./src/sw/sw5653)
 
+[BOJ 3910 뱀](./src/boj/n3190)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
