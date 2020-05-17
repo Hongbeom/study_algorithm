@@ -298,6 +298,8 @@ study algorithm with JAVA
 
 [SW 4014 활주로 건설](./src/sw/sw4014)
 
+[BOJ 14499 주사위 굴리기](./src/boj/n14499)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
