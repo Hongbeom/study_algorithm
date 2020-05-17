@@ -76,6 +76,8 @@ study algorithm with JAVA
 
 [BOJ 4008 숫자 만들기](./src/sw/sw4008)
 
+[BOJ 18233 러버덕을 사랑하는 모임](./src/boj/n16948)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
