@@ -336,6 +336,8 @@ study algorithm with JAVA
 
 [BOJ 2232 지뢰](./src/boj/n2232)
 
+[BOJ 17828 문자열 화폐](./src/boj/n17828)
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
