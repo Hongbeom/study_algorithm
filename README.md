@@ -188,6 +188,8 @@ study algorithm with JAVA
 
 [BOJ 17213 과일 서리](./src/boj/n17213)
 
+[BOJ 9278 절망적인 줄](./src/boj/n9278)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
