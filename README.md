@@ -78,6 +78,8 @@ study algorithm with JAVA
 
 [BOJ 18233 러버덕을 사랑하는 모임](./src/boj/n16948)
 
+[SW 1953 탈주범 검거](./src/sw/sw1953)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
