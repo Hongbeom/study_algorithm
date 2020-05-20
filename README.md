@@ -304,6 +304,8 @@ study algorithm with JAVA
 
 [BOJ 14499 주사위 굴리기](./src/boj/n14499)
 
+[SW 2382 미생물 격리](./src/sw/sw2382)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
