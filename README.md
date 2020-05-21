@@ -278,6 +278,8 @@ study algorithm with JAVA
 
 [BOJ 15684 사다리 조작](./src/boj/n15684)
 
+[BOJ 1821 수들의 합](./src/boj/n1821)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
