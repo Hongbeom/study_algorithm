@@ -232,6 +232,8 @@ study algorithm with JAVA
 
 [BOJ 14575 뒤풀이](./src/boj/n14575)
 
+[BOJ 12945 재미있는 박스 정리](./src/boj/n12945)
+
 ### Brute Force
 
 [BOJ 14888 연산자 끼워넣기](./src/boj/n14888)
