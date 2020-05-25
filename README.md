@@ -80,6 +80,8 @@ study algorithm with JAVA
 
 [SW 1953 탈주범 검거](./src/sw/sw1953)
 
+[BOJ 14868 문명](./src/boj/n14868)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
