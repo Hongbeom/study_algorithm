@@ -324,6 +324,8 @@ study algorithm with JAVA
 
 [BOJ 16235 나무 재테크](./src/boj/n16235)
 
+[BOJ 17143 낚시왕](./src/boj/n17143)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
