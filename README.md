@@ -388,6 +388,8 @@ study algorithm with JAVA
 
 [BOJ 2381 최대 거리](./src/boj/n2381)
 
+[BOJ 1393 음하철도 구구팔](./src/boj/n1393)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
