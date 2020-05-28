@@ -152,6 +152,8 @@ study algorithm with JAVA
 
 [BOJ 15685 드래곤 커브](./src/boj/n15685)
 
+[BOJ 1593 문자 해독](./src/boj/n1593)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
