@@ -322,6 +322,8 @@ study algorithm with JAVA
 
 [BOJ 14503 로봇 청소기](./src/boj/n14503)
 
+[BOJ 16235 나무 재테크](./src/boj/n16235)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
