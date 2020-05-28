@@ -82,6 +82,8 @@ study algorithm with JAVA
 
 [BOJ 14868 문명](./src/boj/n14868)
 
+[BOJ 5214 환승](./src/boj/n5214)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
