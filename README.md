@@ -290,6 +290,8 @@ study algorithm with JAVA
 
 [BOJ 1821 수들의 합](./src/boj/n1821)
 
+[BOJ 17142 연구소 3](./src/boj/n17142)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
