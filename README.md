@@ -332,6 +332,8 @@ study algorithm with JAVA
 
 [BOJ 17143 낚시왕](./src/boj/n17143)
 
+[BOJ 17140 이차원 배열과 연산](./src/boj/n17140)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
