@@ -84,6 +84,8 @@ study algorithm with JAVA
 
 [BOJ 5214 환승](./src/boj/n5214)
 
+[BOJ 3973 Time To Live](./src/boj/n3973)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
