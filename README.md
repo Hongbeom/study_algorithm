@@ -336,6 +336,8 @@ study algorithm with JAVA
 
 [BOJ 17140 이차원 배열과 연산](./src/boj/n17140)
 
+[BOJ 17837 새로운 게임 2](./src/boj/n17837)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
