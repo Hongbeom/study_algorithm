@@ -158,6 +158,8 @@ study algorithm with JAVA
 
 [BOJ 17825 주사위 윷놀이](./src/boj/n17825)
 
+[BOJ 17822 원판 돌리기](./src/boj/n17822)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
