@@ -156,6 +156,8 @@ study algorithm with JAVA
 
 [BOJ 1593 문자 해독](./src/boj/n1593)
 
+[BOJ 17825 주사위 윷놀이](./src/boj/n17825)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
