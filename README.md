@@ -408,6 +408,8 @@ study algorithm with JAVA
 
 [BOJ 1393 음하철도 구구팔](./src/boj/n1393)
 
+[BOJ 2878 캔디캔디](./src/boj/n2878)
+
 ### 최소 스패닝 트리
 
 [BOJ 4386 별자리 만들기](./src/boj/n4386)
