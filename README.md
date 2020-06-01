@@ -160,6 +160,8 @@ study algorithm with JAVA
 
 [BOJ 17822 원판 돌리기](./src/boj/n17822)
 
+[BOJ 7432 디스크 트리](./src/boj/n7432)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
