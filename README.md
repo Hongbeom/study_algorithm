@@ -162,6 +162,8 @@ study algorithm with JAVA
 
 [BOJ 7432 디스크 트리](./src/boj/n7432)
 
+[BOJ 10906 N-orthotope](./src/boj/n10906)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
