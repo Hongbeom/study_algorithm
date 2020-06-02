@@ -164,6 +164,8 @@ study algorithm with JAVA
 
 [BOJ 10906 N-orthotope](./src/boj/n10906)
 
+[BOJ 2174 로봇 시뮬레이션](./src/boj/n10906)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
