@@ -88,6 +88,8 @@ study algorithm with JAVA
 
 [BOJ 5427 불](./src/boj/n5427)
 
+[BOJ 1194 달이 차오른다, 가자.](./src/boj/n1194)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
