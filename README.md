@@ -86,6 +86,8 @@ study algorithm with JAVA
 
 [BOJ 3973 Time To Live](./src/boj/n3973)
 
+[BOJ 5427 불](./src/boj/n5427)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
