@@ -172,6 +172,8 @@ study algorithm with JAVA
 
 [BOJ 16397 탈출](./src/boj/n16397)
 
+[BOJ 3111 검열](./src/boj/n3111)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
