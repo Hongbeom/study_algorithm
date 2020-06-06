@@ -356,6 +356,8 @@ study algorithm with JAVA
 
 [BOJ 17837 새로운 게임 2](./src/boj/n17837)
 
+[BOJ 5373 큐빙](./src/boj/n5373)
+
 ### Greedy
 
 [BOJ 1449 수리공 항승](./src/boj/n1449)
