@@ -174,6 +174,8 @@ study algorithm with JAVA
 
 [BOJ 3111 검열](./src/boj/n3111)
 
+[BOJ 6616 문자열 암호화](./src/boj/n6616)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
