@@ -224,6 +224,8 @@ study algorithm with JAVA
 
 [BOJ 9278 절망적인 줄](./src/boj/n9278)
 
+[BOJ 5557 1학년](./src/boj/n5557)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
