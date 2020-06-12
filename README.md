@@ -176,6 +176,8 @@ study algorithm with JAVA
 
 [BOJ 6616 문자열 암호화](./src/boj/n6616)
 
+[BOJ 16567 바이너리 왕국](./src/boj/n16567)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
