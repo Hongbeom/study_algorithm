@@ -478,6 +478,8 @@ study algorithm with JAVA
 
 [BOJ 12834 주간 미팅](./src/boj/n12834) - Dijkstra 
 
+[BOJ 9694무엇을 아느냐가 아니라 누구를 아느냐가 문제다](./src/boj/n9694) 
+
 ### LCA
 
 [BOJ 3584 가장 가까운 공통 조상](./src/boj/n3584) - LCA와 union find 풀이
