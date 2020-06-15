@@ -90,6 +90,8 @@ study algorithm with JAVA
 
 [BOJ 1194 달이 차오른다, 가자.](./src/boj/n1194)
 
+[BOJ 1963 소수 경로](./src/boj/n1963)
+
 ### 구현
 
 [BOJ 2140 지뢰찾기](./src/boj/n2140)
