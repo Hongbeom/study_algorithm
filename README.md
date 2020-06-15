@@ -180,6 +180,8 @@ study algorithm with JAVA
 
 [BOJ 16567 바이너리 왕국](./src/boj/n16567)
 
+[BOJ 11656 접미사 배열](./src/boj/n11656)
+
 ### Union Find
 
 [BOJ 4195 친구 네트워크](./src/boj/n4195)
