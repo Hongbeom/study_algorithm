@@ -316,6 +316,8 @@ study algorithm with JAVA
 
 [BOJ 17142 연구소 3](./src/boj/n17142)
 
+[BOJ 15728 에리 - 카드](./src/boj/n15728)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
