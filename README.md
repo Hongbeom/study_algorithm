@@ -322,6 +322,8 @@ study algorithm with JAVA
 
 [BOJ 15728 에리 - 카드](./src/boj/n15728)
 
+[BOJ 9080 PC방 요금](./src/boj/n9080)
+
 ### 위상정렬
 
 [BOJ 1766 문제집](./src/boj/n1766)
