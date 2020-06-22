@@ -232,6 +232,8 @@ study algorithm with JAVA
 
 [BOJ 5557 1학년](./src/boj/n5557)
 
+[BOJ 2073 수도배관공사](./src/boj/n2073)
+
 ### 문자열 처리
 
 [BOJ 5670 휴대폰 자판](./src/boj/n5670) - Trie 이용
