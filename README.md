@@ -410,6 +410,8 @@ study algorithm with JAVA
 
 [BOJ 17828 문자열 화폐](./src/boj/n17828)
 
+[BOJ 14908 구두 수선공](./src/boj/n14908) - Exchange Argument
+
 ### sweeping-line
 
 [BOJ 5625 페스트리](./src/boj/n5625)
